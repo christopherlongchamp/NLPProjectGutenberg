@@ -23,58 +23,9 @@ Produced by: Laura Natal Rodrigues (Images generously made available by
 *** START OF THE PROJECT GUTENBERG EBOOK ALL THE SAD YOUNG MEN ***
 
 
-ALL THE SAD YOUNG MEN
-
-
-
-
-_By_
-
-F. SCOTT FITZGERALD
-
-
-
-
-NEW YORK
-
-CHARLES SCRIBNER'S SONS
-
-1926
-
-
-
-
-TO
-
-RING AND ELLIS LARDNER
-
-
-
-
-CONTENTS
-
 THE RICH BOY
 
-WINTER DREAMS
-
-THE BABY PARTY
-
-ABSOLUTION
-
-RAGS MARTIN-JONES AND THE PR-NCE OF W-LES
-
-THE ADJUSTER
-
-HOT AND COLD BLOOD
-
-"THE SENSIBLE THING"
-
-GRETCHEN'S FORTY WINKS
-
-
-
-
-THE RICH BOY
+I
 
 
 Begin with an individual, and before you know it you find that you have
@@ -1723,6 +1674,8 @@ that superiority he cherished in his heart.
 
 WINTER DREAMS
 
+I
+
 
 Some of the caddies were poor as sin and lived in one-room houses with a
 neurasthenic cow in the front yard, but Dexter Green's father owned the
@@ -2736,6 +2689,8 @@ I cannot care. That thing will come back no more."
 
 THE BABY PARTY
 
+I
+
 
 When John Andros felt old he found solace in the thought of life
 continuing through his child. The dark trumpets of oblivion were less
@@ -3289,6 +3244,8 @@ he sat there rocking very slowly to and fro in the darkness.
 
 ABSOLUTION
 
+I
+
 
 There was once a priest with cold, watery eyes, who, in the still of the
 night, wept cold tears. He wept because the afternoons were warm and
@@ -3374,8 +3331,6 @@ to church. And he yelled after me: 'Don't come back till you go.'..."
 
 
 II
-
-"_On Saturday, Three Days Ago._"
 
 
 The plush curtain of the confessional rearranged its dismal creases,
@@ -4016,8 +3971,9 @@ the moon.
 
 
 
-RAGS MARTIN-JONES AND THE PR-NCE OF
-W-LES
+RAGS MARTIN-JONES AND THE PR-NCE OF W-LES
+
+I
 
 
 The _Majestic_ came gliding into New York harbor on an April morning.
@@ -4905,6 +4861,8 @@ bargain to me."
 
 
 THE ADJUSTER
+
+I
 
 
 At five o'clock the sombre egg-shaped room at the Ritz ripens to a
@@ -5957,6 +5915,8 @@ where the two children were waiting up to say good night.
 
 HOT AND COLD BLOOD
 
+I
+
 
 One day when the young Mathers had been married for about a year,
 Jaqueline walked into the rooms of the hardware brokerage which her
@@ -6652,6 +6612,8 @@ About that little matter this afternoon----"
 
 "THE SENSIBLE THING"
 
+I
+
 
 At the Great American Lunch Hour young George O'Kelly straightened his
 desk deliberately and with an assumed air of interest. No one in the
@@ -7331,6 +7293,7 @@ all kinds of love in the world, but never the same love twice.
 
 GRETCHEN'S FORTY WINKS
 
+I
 
 The sidewalks were scratched with brittle leaves, and the bad little boy
 next door froze his tongue to the iron mail-box. Snow before night,
