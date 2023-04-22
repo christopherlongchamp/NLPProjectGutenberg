@@ -8,7 +8,7 @@
 
 ## Proposed Analysis
 
-#### The Corpus that will be used is a corpus of 15 texts from the three authors. The author with the most amount of texts in the corpus is Virginia Woolf. She has 7 texts in the corpus, F. Scott Fitzgerald has 5 texts, and Ernest Heminway has 3 texts. The proposed analysis will contain topic modeling for the corpus, a word embedding analysis of the corpus, and a sentiment analysis of the corpus.  
+#### The Corpus that will be used is a corpus of 13 texts from the three authors. The author with the most amount of texts in the corpus is Virginia Woolf. She has 6 texts in the corpus, F. Scott Fitzgerald has 4 texts, and Ernest Heminway has 3 texts. The proposed analysis will contain topic modeling for the corpus, a word embedding analysis of the corpus, and a sentiment analysis of the corpus.  
 
 ## The Data Pipeline/How to Get Started
 
