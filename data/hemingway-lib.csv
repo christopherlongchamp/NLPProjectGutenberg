@@ -1,0 +1,4 @@
+book_id,source_file_path,author,title,chap_regex,author_key,book_len
+61085,../DS5001/NLPProjectGutenberg/final-set\ERNEST_HEMINGWAY_IN_OUR_TIME-pg61085.txt,"ERNEST, HEMINGWAY",IN OUR TIME,^\s*chapter\s*\d+\s*,hemingway,3644
+67138,../DS5001/NLPProjectGutenberg/final-set\ERNEST_HEMINGWAY_THE_SUN_ALSO_RISES-pg67138.txt,"ERNEST, HEMINGWAY",THE SUN ALSO RISES,^\s*CHAPTER\s+\d+$,hemingway,68303
+69683,../DS5001/NLPProjectGutenberg/final-set\ERNEST_HEMINGWAY_MEN_WITHOUT_WOMEN-pg69683.txt,"ERNEST, HEMINGWAY",MEN WITHOUT WOMEN,^[A-Z\s]+$,hemingway,41057
