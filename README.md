@@ -12,7 +12,9 @@
 
 ## The Data Pipeline/How to Get Started
 
-#### The data pipeline begins with forking this Github Repository and getting both the Python Notebook and the folder with the text files. Once the files are forked onto your computer, you will have to adjust the file path of the data home, from `data_home = "../DS5001"` to `data_home = "../whateverfolderfilesarein"`. 
+#### The data pipeline begins with forking this Github Repository and getting both the Python Notebook and the folder with the text files. Once the files are forked onto your computer, you will have to adjust the file path of the data home, from `data_home = "../DS5001"` to `data_home = "../whateverfolderfilesarein"`.
+
+#### The tables in which are needed for the analysis are already created. Instead of running the code to create these files, you could just load them in from the `data` folder that is contained within this repository. The only thing is that you will have to set the index to OHCO indexing, which for this corpus is `book_id`, `chap_id`, `para_num`, `sent_num`, `token_num`. Then for the tables that have words in them such as the Vocabulary table, the index for these tables are `term_str`. 
 
 ## What is in the Repository
 
